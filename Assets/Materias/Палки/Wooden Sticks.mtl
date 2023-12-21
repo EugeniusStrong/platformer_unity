@@ -1,0 +1,21 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl wood_seamless2
+Ka 0.000000 0.000000 0.000000
+Kd 0.317647 0.298039 0.274510
+Ks 0.330000 0.330000 0.330000
+map_Kd Wooden Sticks/wood_seamless2.jpg
+
+newmtl ForegroundColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Dark_Seamless_Wood_Texture
+Ka 0.000000 0.000000 0.000000
+Kd 0.239216 0.192157 0.160784
+Ks 0.330000 0.330000 0.330000
+map_Kd Wooden Sticks/Dark_Seamless_Wood_Texture.jpg
+

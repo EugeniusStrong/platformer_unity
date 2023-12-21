@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: ef544572dd6cabb48a68bffd4f4ee523
+timeCreated: 1487843711
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AsianHat
+    100002: BasicRoundHat
+    100004: BuildersHelmet
+    100006: CowboyHat
+    100008: DevilHorns
+    100010: ElfsHat
+    100012: Fez
+    100014: FiremanHelmet
+    100016: //RootNode
+    100018: Headphones
+    100020: HuntersHat
+    100022: KingsCrown
+    100024: KnightHelmet
+    100026: LaserGlasses
+    100028: MakeGamesGreatAgain
+    100030: Mohawk
+    100032: MusketeerHat
+    100034: NativeAmericanHat
+    100036: PirateHat
+    100038: PoliceHat
+    100040: RabbitEars
+    100042: RastafarianHat
+    100044: RomanHelmet
+    100046: Sombrero
+    100048: SpaceHelmet
+    100050: TopHat
+    100052: VikingHelmet
+    100054: WizardHat
+    400000: AsianHat
+    400002: BasicRoundHat
+    400004: BuildersHelmet
+    400006: CowboyHat
+    400008: DevilHorns
+    400010: ElfsHat
+    400012: Fez
+    400014: FiremanHelmet
+    400016: //RootNode
+    400018: Headphones
+    400020: HuntersHat
+    400022: KingsCrown
+    400024: KnightHelmet
+    400026: LaserGlasses
+    400028: MakeGamesGreatAgain
+    400030: Mohawk
+    400032: MusketeerHat
+    400034: NativeAmericanHat
+    400036: PirateHat
+    400038: PoliceHat
+    400040: RabbitEars
+    400042: RastafarianHat
+    400044: RomanHelmet
+    400046: Sombrero
+    400048: SpaceHelmet
+    400050: TopHat
+    400052: VikingHelmet
+    400054: WizardHat
+    2300000: AsianHat
+    2300002: BasicRoundHat
+    2300004: BuildersHelmet
+    2300006: CowboyHat
+    2300008: DevilHorns
+    2300010: ElfsHat
+    2300012: Fez
+    2300014: FiremanHelmet
+    2300016: Headphones
+    2300018: HuntersHat
+    2300020: KingsCrown
+    2300022: KnightHelmet
+    2300024: LaserGlasses
+    2300026: MakeGamesGreatAgain
+    2300028: Mohawk
+    2300030: MusketeerHat
+    2300032: NativeAmericanHat
+    2300034: PirateHat
+    2300036: PoliceHat
+    2300038: RabbitEars
+    2300040: RastafarianHat
+    2300042: RomanHelmet
+    2300044: Sombrero
+    2300046: SpaceHelmet
+    2300048: TopHat
+    2300050: VikingHelmet
+    2300052: WizardHat
+    3300000: AsianHat
+    3300002: BasicRoundHat
+    3300004: BuildersHelmet
+    3300006: CowboyHat
+    3300008: DevilHorns
+    3300010: ElfsHat
+    3300012: Fez
+    3300014: FiremanHelmet
+    3300016: Headphones
+    3300018: HuntersHat
+    3300020: KingsCrown
+    3300022: KnightHelmet
+    3300024: LaserGlasses
+    3300026: MakeGamesGreatAgain
+    3300028: Mohawk
+    3300030: MusketeerHat
+    3300032: NativeAmericanHat
+    3300034: PirateHat
+    3300036: PoliceHat
+    3300038: RabbitEars
+    3300040: RastafarianHat
+    3300042: RomanHelmet
+    3300044: Sombrero
+    3300046: SpaceHelmet
+    3300048: TopHat
+    3300050: VikingHelmet
+    3300052: WizardHat
+    4300000: SpaceHelmet
+    4300002: RabbitEars
+    4300004: KingsCrown
+    4300006: PirateHat
+    4300008: LaserGlasses
+    4300010: Headphones
+    4300012: BasicRoundHat
+    4300014: BuildersHelmet
+    4300016: TopHat
+    4300018: PoliceHat
+    4300020: Mohawk
+    4300022: FiremanHelmet
+    4300024: DevilHorns
+    4300026: HuntersHat
+    4300028: ElfsHat
+    4300030: NativeAmericanHat
+    4300032: RomanHelmet
+    4300034: MakeGamesGreatAgain
+    4300036: MusketeerHat
+    4300038: AsianHat
+    4300040: Sombrero
+    4300042: VikingHelmet
+    4300044: RastafarianHat
+    4300046: KnightHelmet
+    4300048: WizardHat
+    4300050: CowboyHat
+    4300052: Fez
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
