@@ -45,6 +45,11 @@ public class Menu : MonoBehaviour
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
 
     }
+    public void Quit() {
+        Application.Quit();
+    
+    }
+
 }
 
 
